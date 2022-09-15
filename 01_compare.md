@@ -25,4 +25,6 @@
 * Project STEM is designed for a lot of student self pacing and a flipped classroom esque feel, which in my current school and some what my teaching philosophy I did not really like employing that curriculum.
 * BJC can be self paced, but sometimes lack the supports that made Project STEM a nice platform, but I think the student challenge in BJC is worth the additonal work
 * The design of Project STEM was also hard for me as the video lectures, if students were at different paces were hard to coordiante in a large class while support students who were really struggling with the work even after wathing the videos.  
+* Project STEM def has better test prep pieces
 ### Adoption
+* I am going to keep BJC but may still have students sign up in Project STEM in order to get their test prep and Create task resources since they were quite strong and useful 
