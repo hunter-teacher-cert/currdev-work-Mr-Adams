@@ -1,6 +1,11 @@
 # Game Design Using Block to Script (Using Code.org block to JS likely or Scratch/Snap to Python/JS(p5)
 * We would use game design as our driving force in the class 
 * We would do some intro work around game design principals to cover basic CS concepts
+* I like game design as a driving factor or reason to learn since it is fun.
+* We may not all be “gamers” but almost everyone plays a cellphone game or simple game with friends so there is a connection almost all students can have. 
+* I think it can be easily modified for class needs and it really interests me
+* I think games cover all CS topics and are such an accessible thing for students
+* We would do some intro work around game design principals to cover basic CS concepts
 * Then we would use blocks to practice and understand some of the more basic concepts
 * After we have designed some basic games using blocks then we will pivot to learning script syntax
 * Then we will design similar games using the script based code.  
