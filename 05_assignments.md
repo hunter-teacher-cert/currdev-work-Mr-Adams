@@ -1,4 +1,4 @@
-# assignment 1: Grow a Game and Game Analysis
+# Assignment 1: Grow a Game and Game Analysis
 ## Description
 The idea is that students will play Grow-A-Game, https://create-a-game.glitch.me/, a few times before developing a game that they can share with other groups.  They will then write about their game and describe it.  They will then trade their game to another group who will read their description and idea (or possible sharing depending on time and group size).  Those reading the idea will then provide a glow and grow for a member of the other group, this way each person writes feedback and receives feedback.  Then we share out games as a whole class and think about how we may remix or adjust any of the other games.
 ## SWBAT 
@@ -27,9 +27,11 @@ The idea is that students will play Grow-A-Game, https://create-a-game.glitch.me
 
 
 # Assignment #2: Keeping Score in a game to track high scores
+## Description
+This assignment will go over the basics 
 ## SWBAT 
-Create a global score variable to keep track of the players score
-Develop a script that will check if the players score is the highest score
+* Create a global score variable to keep track of the players score
+* Develop a script that will check if the players score is the highest score
 ## Directions
 Do now will open with the idea of tracking scores and variables.  Depending on language being used the do now should try and utilize another use of variables class may have seen before.
 Then explain that 
