@@ -18,12 +18,12 @@
 
 ## Tool #2: LucidChart
 * What its general purpose is.
- * Create flowcharts 
+  * Create flowcharts 
 * The class(es) you use it in.
- * Primarly APCSP but any project based programing class
+  * Primarly APCSP but any project based programing class
 * How you use it in class.
- * For planning and analyzing algorithms
- * Laying out logic of program and test coditional logic and output before acutally programming
+  * For planning and analyzing algorithms
+  * Laying out logic of program and test coditional logic and output before acutally programming
 * Why you have selected that tool for that purpose?
- * The DOE pays for the premium licesnce
- * Really great for collaboration like Google Docs.
+  * The DOE pays for the premium licesnce
+  * Really great for collaboration like Google Docs.
