@@ -16,8 +16,14 @@
   * It works well with slides where I build many of my lesson and lectures now
   * No need to use an extra app or webpage.
 
-## Tool #2: Snap
+## Tool #2: LucidChart
 * What its general purpose is.
+ * Create flowcharts 
 * The class(es) you use it in.
+ * Primarly APCSP but any project based programing class
 * How you use it in class.
+ * For planning and analyzing algorithms
+ * Laying out logic of program and test coditional logic and output before acutally programming
 * Why you have selected that tool for that purpose?
+ * The DOE pays for the premium licesnce
+ * Really great for collaboration like Google Docs.
