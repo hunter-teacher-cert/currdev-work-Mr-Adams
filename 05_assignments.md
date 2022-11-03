@@ -28,10 +28,12 @@ The idea is that students will play Grow-A-Game, https://create-a-game.glitch.me
 
 # Assignment #2: Keeping Score in a game to track high scores
 ## Description
-This assignment will go over the basics 
+This assignment will go over the basics of how to use variables to keep score and update a high score list and advance levels
 ## SWBAT 
 * Create a global score variable to keep track of the players score
 * Develop a script that will check if the players score is the highest score
 ## Directions
-Do now will open with the idea of tracking scores and variables.  Depending on language being used the do now should try and utilize another use of variables class may have seen before.
-Then explain that 
+* Do now will open with the idea of tracking scores and variables.  Depending on language being used the do now should try and utilize another use of variables class may have seen before.
+* Then explain that the global score variable can be used to track many things in the game and update a high score list
+* We will talk abut inserting into the top of a list or specific point in the list
+* Exit slip: share script pic of their code accomplishing the task.
